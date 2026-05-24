@@ -1,0 +1,16 @@
+inventory.ini
+vault.yml
+vault-key*
+__pycache__/
+*.pyc
+
+.terraform
+
+*secret*
+*.backup
+*.tfstate
+*.tfstate.*
+
+!*template*
+
+*temporary*
